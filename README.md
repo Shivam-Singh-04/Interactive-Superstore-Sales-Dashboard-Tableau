@@ -41,9 +41,9 @@ This project delivers a **comprehensive sales analysis** using **Tableau**, offe
 ---
 
 ## **📸 Dashboard Preview**  
-
-*(Additional relevant image can be placed here if required.)*  
-![Dashboard Screenshot](Sales Dashboard (1).png)  
+  
+![Dashboard Screenshot](Sales%20Dashboard%20(1).png)
+)  
 
 ---
 
@@ -63,7 +63,7 @@ Follow me for more data-related content!
 
 [![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LearnWithShivam-04)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-singh-linkdin/)
-
+[![Tableau](https://img.shields.io/badge/Tableau-005F9E?style=for-the-badge&logo=tableau&logoColor=white)](https://public.tableau.com/app/profile/shivam.singh4467/vizzes)  
 [![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam-Singh-04)  
 
 
