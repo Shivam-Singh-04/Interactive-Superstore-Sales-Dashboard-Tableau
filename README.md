@@ -42,8 +42,7 @@ This project delivers a **comprehensive sales analysis** using **Tableau**, offe
 
 ## **📸 Dashboard Preview**  
   
-![Dashboard Screenshot](Sales%20Dashboard%20(1).png)
-)  
+![Dashboard Screenshot](Sales%20Dashboard%20(1).png) 
 
 ---
 
