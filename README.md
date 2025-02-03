@@ -59,7 +59,13 @@ This project delivers a **comprehensive sales analysis** using **Tableau**, offe
 Hi! I'm **Shivam Singh**, a **Data Analyst** passionate about transforming raw data into **actionable insights**.  
 Follow me for more data-related content!  
 
-📌 **[LinkedIn](#)** | 📌 **[Twitter](#)** | 📌 **[YouTube](#)**  
+## 🔗 Connect with Me  
+
+[![YouTube](https://img.shields.io/badge/YouTube-red?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@LearnWithShivam-04)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shivam-singh-linkdin/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shivam-Singh-04)  
+
 
 🚀 **Stay tuned for more data-driven projects!**  
 
